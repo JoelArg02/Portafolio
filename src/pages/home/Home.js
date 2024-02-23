@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col} from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import AboutMe from "../../pages/cv/AboutMe";
 import Contact from "../../pages/cv/Contact";
 import Projects from "../../pages/cv/Projects";
@@ -19,9 +19,9 @@ const Home = () => {
         </Col>
       </Row>
       <AboutMe></AboutMe>
-      <Contact></Contact>
       <Projects></Projects>
       <Technology></Technology>
+      <Contact></Contact>
     </Container>
   );
 };

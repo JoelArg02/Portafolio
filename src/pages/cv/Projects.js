@@ -17,7 +17,7 @@ const Projects = () => {
                   placement="right"
                   overlay={
                     <Tooltip>
-                      Visita la página de Créditos de Nexfon en joeltest.tech
+                      Visita la página de Créditos de Nexfon en nexfon.works
                     </Tooltip>
                   }
                 >
@@ -63,11 +63,11 @@ const Projects = () => {
                 }
               >
                 <a
-                  href="https://medicina.joeltest.tech"
+                  href="https://medicina.citaviso.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Página de hospital en medicina.joeltest.tech
+                  Página de hospital en medicina.citaviso.com
                 </a>
               </OverlayTrigger>
             </li>
