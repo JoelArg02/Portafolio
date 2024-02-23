@@ -10,7 +10,7 @@ const Projects = () => {
           <Accordion.Header>Trabajos Actuales</Accordion.Header>
           <Accordion.Body>
             <ul>
-              <li>Trabajo en Diseño Gráfico (2021 - Actual)</li>
+              <li>Trabajo en Diseño Gráfico (2021 - 2024) en la empresa Nexfon</li>
               <li>Diseño de Páginas Web (2020 - Actual)</li>
               <li>
                 <OverlayTrigger
@@ -22,7 +22,7 @@ const Projects = () => {
                   }
                 >
                   <a
-                    href="https://joeltest.tech"
+                    href="https://nexfon.works"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -67,7 +67,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Página de hospital en medicina.joeltest.tech{" "}
+                  Página de hospital en medicina.joeltest.tech
                 </a>
               </OverlayTrigger>
             </li>
@@ -87,11 +87,19 @@ const Projects = () => {
                 </a>
               </OverlayTrigger>
             </li>
+          </Accordion.Body>
+        </Accordion.Item>
+        <Accordion.Item eventKey="2">
+          <Accordion.Header>Trabajos Terminados</Accordion.Header>
+          <Accordion.Body>
             <li>
               <OverlayTrigger
                 placement="right"
                 overlay={
-                  <Tooltip>Visita la página de noticias de Angel TV en noticiasangeltv.com</Tooltip>
+                  <Tooltip>
+                    Visita la página de noticias de Angel TV en
+                    noticiasangeltv.com
+                  </Tooltip>
                 }
               >
                 <a
@@ -102,13 +110,7 @@ const Projects = () => {
                   Página de noticias en noticiasangeltv.com
                 </a>
               </OverlayTrigger>
-            </li>
-          </Accordion.Body>
-        </Accordion.Item>
-        <Accordion.Item eventKey="2">
-          <Accordion.Header>Trabajos Terminados</Accordion.Header>
-          <Accordion.Body>
-            <p>Aquí puedes listar los proyectos que has completado.</p>
+            </li>{" "}
           </Accordion.Body>
         </Accordion.Item>
       </Accordion>

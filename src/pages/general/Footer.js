@@ -7,7 +7,7 @@ const Footer = () => {
       <Row>
         <Col className="text-center py-3">
           © 2024 Joel Arguello. Todos los derechos reservados. <br />
-          Sitio desarrollado con <strong>React</strong> y <strong>React Bootstrap</strong>.
+          Sitio desarrollado con <strong>React</strong>, <strong>React Bootstrap</strong> y <strong>Materialice</strong>.
         </Col>
       </Row>
     </Container>

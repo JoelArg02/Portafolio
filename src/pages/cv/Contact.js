@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Row, Col, Form, Button } from 'react-bootstrap';
 
 const Contact = () => {
-  const whatsappLink = "https://wa.me/593998500498"; // Asegúrate de incluir el código de país correcto, en este caso, 593 para Ecuador
+  const whatsappLink = "https://wa.me/593998500498";
 
   return (
     <Container className="my-5">
