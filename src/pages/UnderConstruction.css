@@ -1,0 +1,58 @@
+/* UnderConstruction.css */
+.under-construction {
+    
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  
+  .construction-icon {
+    color: #ffc107;
+    animation: pulse 2s infinite;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  h1 {
+    color: #0d6efd;
+    margin-bottom: 2rem;
+  }
+  
+  .contact-detail {
+    font-size: 1.2rem;
+    margin: .5rem 0;
+  }
+  
+  .contact-detail a {
+    color: #28a745;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .contact-detail a:hover {
+    color: #218838;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 1.5rem;
+    }
+    .contact-detail {
+      font-size: 1rem;
+    }
+  }
+  

@@ -1,27 +1,25 @@
+// App.js
 import "./App.css";
-import Header from "./pages/general/Header"; 
-import Footer from "./pages/general/Footer"; 
-import Home from "./pages/home/Home";
-import NotFound from "./pages/general/NotFound";
-import Technology from "./pages/cv/Technology";
-import Projects from "./pages/cv/Projects";
-import AboutMe from "./pages/cv/AboutMe";
-import Contact from "./pages/cv/Contact";
+
+import UnderConstruction from "./pages/UnderContruction";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
     <Router>
-      <Header /> 
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/technology" element={<Technology />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/about" element={<AboutMe />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="*" element={<NotFound />} />
+        <Route path="/" element={<UnderConstruction />} />{" "}
+        {/* Página principal en construcción */}
+        <Route path="/technology" element={<UnderConstruction />} />{" "}
+        {/* Tecnología en construcción */}
+        <Route path="/projects" element={<UnderConstruction />} />{" "}
+        {/* Proyectos en construcción */}
+        <Route path="/about" element={<UnderConstruction />} />{" "}
+        {/* Acerca de mí en construcción */}
+        <Route path="/contact" element={<UnderConstruction />} />{" "}
+        {/* Página de contacto */}
+        <Route path="*" element={<UnderConstruction />} />
       </Routes>
-      <Footer /> 
     </Router>
   );
 }
