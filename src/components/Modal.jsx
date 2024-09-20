@@ -19,31 +19,31 @@ export default function Modal({ modalData }) {
               <ul>
                 {type && (
                   <li className="d-flex">
-                    <span className="col-4 col-lg-3">Type:</span>
+                    <span className="col-4 col-lg-3">Tipo:</span>
                     <span>{type}</span>
                   </li>
                 )}
                 {langages && (
                   <li className="d-flex">
-                    <span className="col-4 col-lg-3">Langages:</span>
+                    <span className="col-4 col-lg-3">Lenguajes:</span>
                     <span>{langages}</span>
                   </li>
                 )}
                 {platform && (
                   <li className="d-flex">
-                    <span className="col-4 col-lg-3">Platform:</span>
+                    <span className="col-4 col-lg-3">Plataforma:</span>
                     <span>{platform}</span>
                   </li>
                 )}
                 {country && (
                   <li className="d-flex">
-                    <span className="col-4 col-lg-3">Country:</span>
+                    <span className="col-4 col-lg-3">País:</span>
                     <span>{country}</span>
                   </li>
                 )}
                 {url && (
                   <li className="d-flex">
-                    <span className="col-4 col-lg-3">Live URL:</span>
+                    <span className="col-4 col-lg-3">WEB:</span>
                     <span>{url}</span>
                   </li>
                 )}

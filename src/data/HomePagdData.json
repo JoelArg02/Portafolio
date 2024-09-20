@@ -88,21 +88,22 @@
     },
     "allProjects": [
       {
-        "thumbUrl": "/images/popup-project-1.jpg",
-        "title": "Diseño Web para Grupo Guaman",
-        "subTitle": "Web Design, WordPress",
+        "thumbUrl": "/images/web-pages/mcglobal.png",
+        "title": "Web Corporativa para MC Global Ecuador",
+        "subTitle": "Business, Web Design",
         "details": {
-          "title": "Diseño de Página Web para Grupo Guaman",
-          "description": "Desarrollo de un sitio web personalizado para Grupo Guaman, optimizado para SEO y velocidad de carga. Se utilizó un enfoque moderno y amigable para el usuario.",
+          "title": "Desarrollo de Página Web Corporativa para MC Global Ecuador",
+          "description": "Sitio web corporativo para MC Global, una empresa de soluciones empresariales globales, enfocado en servicios y contacto con clientes.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS",
           "platform": "WordPress",
           "country": "Ecuador",
-          "url": "www.grupoguaman.com"
+          "url": "www.mcglobalecuador.com"
         }
       },
+
       {
-        "thumbUrl": "/images/popup-project-2.jpg",
+        "thumbUrl": "/images/web-pages/amir.png",
         "title": "Website para AMIRadiológico",
         "subTitle": "Web Design, Health Services",
         "details": {
@@ -116,7 +117,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-3.jpg",
+        "thumbUrl": "/images/web-pages/danatel.png",
         "title": "Web para DanaTel Fiber",
         "subTitle": "Telecomunicaciones, Fiber Optic",
         "details": {
@@ -130,7 +131,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-4.jpg",
+        "thumbUrl": "/images/web-pages/ecsecure.png",
         "title": "Web de Ecuador Seguro",
         "subTitle": "Seguros, Web Design",
         "details": {
@@ -144,7 +145,21 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-5.jpg",
+        "thumbUrl": "/images/web-pages/grupo-guaman.png",
+        "title": "Diseño Web para Grupo Guaman",
+        "subTitle": "Web Design, WordPress",
+        "details": {
+          "title": "Diseño de Página Web para Grupo Guaman",
+          "description": "Desarrollo de un sitio web personalizado para Grupo Guaman, optimizado para SEO y velocidad de carga. Se utilizó un enfoque moderno y amigable para el usuario.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "Ecuador",
+          "url": "www.grupoguaman.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/web-pages/moroni.png",
         "title": "Web para Fundación Moroni",
         "subTitle": "Non-Profit, Web Design",
         "details": {
@@ -157,22 +172,9 @@
           "url": "www.fundacionmoroniec.com"
         }
       },
+
       {
-        "thumbUrl": "/images/popup-project-5.jpg",
-        "title": "Web Corporativa para MC Global Ecuador",
-        "subTitle": "Business, Web Design",
-        "details": {
-          "title": "Desarrollo de Página Web Corporativa para MC Global Ecuador",
-          "description": "Sitio web corporativo para MC Global, una empresa de soluciones empresariales globales, enfocado en servicios y contacto con clientes.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "Ecuador",
-          "url": "www.mcglobalecuador.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/popup-project-5.jpg",
+        "thumbUrl": "/images/web-pages/clima.png",
         "title": "Portal para Climaproyec",
         "subTitle": "Engineering, Web Design",
         "details": {
@@ -186,7 +188,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-5.jpg",
+        "thumbUrl": "/images/web-pages/jessy.png",
         "title": "Sitio Web para Jessy y Luis",
         "subTitle": "Evento, Web Design",
         "details": {
@@ -201,7 +203,7 @@
       },
 
       {
-        "thumbUrl": "/images/popup-project-5.jpg",
+        "thumbUrl": "/images/web-pages/ecsecure.png",
         "title": "Web para Ángel TV Noticias",
         "subTitle": "Media, Web Design",
         "details": {
@@ -215,7 +217,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-5.jpg",
+        "thumbUrl": "/images/web-pages/ecsecure.png",
         "title": "Web para Frute Expert",
         "subTitle": "Food Industry, Web Design",
         "details": {
@@ -229,7 +231,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-5.jpg",
+        "thumbUrl": "/images/web-pages/ecsecure.png",
         "title": "Website para Technology Socrates",
         "subTitle": "Technology, Web Design",
         "details": {
