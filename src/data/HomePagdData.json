@@ -3,8 +3,8 @@
     "imgUrl": "/images/home-banner.png",
     "name": "Joel Arguello",
     "heading": "Hey! Soy Joel",
-    "typingText": ["Hola soy desarrollador", 1500, "I'm a Developer", 1500],
-    "description": "Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.",
+    "typingText": ["Soy desarrollador", 1500, "I'm a Developer", 1500],
+    "description": "Soy un desarrollador especializado en soluciones web y móviles, con experiencia en diseño y desarrollo full-stack. Trabajo con tecnologías modernas como JavaScript, TypeScript, C#, Python, React Native, .NET Core, y más, ayudando a empresas a crear experiencias digitales excepcionales.",
     "btnText": "Obten mi CV",
     "btnUrl": "/hola"
   },
@@ -12,13 +12,17 @@
     {
       "icon": "fa-brands:facebook-f",
       "iconBgClass": "facebook",
-      "href": "/"
+      "href": "https://www.facebook.com/joelarg02"
     },
-    { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "/" },
+    {
+      "icon": "fa-brands:whatsapp",
+      "iconBgClass": "whatsapp",
+      "href": "https://wa.me/593998500498"
+    },
     {
       "icon": "fa-brands:linkedin-in",
       "iconBgClass": "linkedin",
-      "href": "/"
+      "href": "https://www.linkedin.com/in/joel-arguello-60338a28b/"
     }
   ],
   "brands": [
@@ -57,192 +61,242 @@
   ],
   "about": {
     "imgSrc": "/images/about-banner.png",
-    "miniTitle": "Sobre Mi",
-    "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
-    "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+    "miniTitle": "Sobre Mí",
+    "title": "ESTOY DISPONIBLE PARA PROYECTOS DE <span>DISEÑO UI/UX</span>",
+    "description": "Soy un desarrollador con amplia experiencia en la creación de páginas web y soluciones de software a medida, tanto en el ámbito móvil como web. Desde 2020, he trabajado con tecnologías como TypeScript, JavaScript, C#, Python, y frameworks como React Native, Redux, .NET Core, y más. Mi enfoque está en crear soluciones optimizadas, escalables y centradas en la experiencia del usuario, ayudando a empresas a maximizar su presencia digital.",
     "funfacts": [
       {
-        "title": "Google Review",
-        "number": 280
+        "title": "Proyectos Completados",
+        "number": 120
       },
       {
-        "title": "Years Experience",
-        "number": 15
+        "title": "Años de Experiencia",
+        "number": 4
       },
       {
-        "title": "Awward Winning",
-        "number": 49
+        "title": "Clientes Satisfechos",
+        "number": 85
       }
     ],
-    "btnText": "Get in touch",
+    "btnText": "Contáctame",
     "btnUrl": "contactus"
   },
   "projects": {
     "sectionHeading": {
-      "miniTitle": "My Work",
-      "title": "RECENT PROJECT"
+      "miniTitle": "Mis trabajos",
+      "title": "Proyectos recientes"
     },
     "allProjects": [
       {
         "thumbUrl": "/images/popup-project-1.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "title": "Diseño Web para Grupo Guaman",
+        "subTitle": "Web Design, WordPress",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "Diseño de Página Web para Grupo Guaman",
+          "description": "Desarrollo de un sitio web personalizado para Grupo Guaman, optimizado para SEO y velocidad de carga. Se utilizó un enfoque moderno y amigable para el usuario.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS",
           "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "country": "Ecuador",
+          "url": "www.grupoguaman.com"
         }
       },
       {
         "thumbUrl": "/images/popup-project-2.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "title": "Website para AMIRadiológico",
+        "subTitle": "Web Design, Health Services",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "Desarrollo de Página Web para AMIRadiológico",
+          "description": "Sitio web para un centro de diagnóstico radiológico, con funciones integradas de reserva de citas y resultados en línea. La plataforma es rápida y segura, cumpliendo con los estándares médicos.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS",
           "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "country": "Ecuador",
+          "url": "www.amiradiologico.com"
         }
       },
       {
         "thumbUrl": "/images/popup-project-3.jpg",
-        "title": "Dashboard Design",
-        "subTitle": "Web Design, App Design",
+        "title": "Web para DanaTel Fiber",
+        "subTitle": "Telecomunicaciones, Fiber Optic",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "Diseño y Desarrollo de Web para DanaTel Fiber",
+          "description": "Sitio web para una empresa de fibra óptica con un enfoque en la experiencia del usuario, velocidad y escalabilidad.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS",
           "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "country": "Ecuador",
+          "url": "www.danatelfiber.com"
         }
       },
       {
         "thumbUrl": "/images/popup-project-4.jpg",
-        "title": "Mobile App Design",
-        "subTitle": "Web Design, App Design",
+        "title": "Web de Ecuador Seguro",
+        "subTitle": "Seguros, Web Design",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "Desarrollo de Página Web para Ecuador Seguro",
+          "description": "Portal de seguros donde los usuarios pueden obtener cotizaciones personalizadas y gestionar sus pólizas en línea.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS",
           "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "country": "Ecuador",
+          "url": "www.ecuadorseguroec.com"
         }
       },
       {
         "thumbUrl": "/images/popup-project-5.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "title": "Web para Fundación Moroni",
+        "subTitle": "Non-Profit, Web Design",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "Diseño Web para Fundación Moroni",
+          "description": "Desarrollo de una página web para una fundación sin fines de lucro, con secciones interactivas y funcionalidad para recibir donaciones en línea.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS",
           "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/popup-project-6.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/popup-project-4.jpg",
-        "title": "Mobile App Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "country": "Ecuador",
+          "url": "www.fundacionmoroniec.com"
         }
       },
       {
         "thumbUrl": "/images/popup-project-5.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "title": "Web Corporativa para MC Global Ecuador",
+        "subTitle": "Business, Web Design",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "Desarrollo de Página Web Corporativa para MC Global Ecuador",
+          "description": "Sitio web corporativo para MC Global, una empresa de soluciones empresariales globales, enfocado en servicios y contacto con clientes.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS",
           "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "country": "Ecuador",
+          "url": "www.mcglobalecuador.com"
         }
       },
       {
-        "thumbUrl": "/images/popup-project-6.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "thumbUrl": "/images/popup-project-5.jpg",
+        "title": "Portal para Climaproyec",
+        "subTitle": "Engineering, Web Design",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "Desarrollo de Portal Web para Climaproyec",
+          "description": "Plataforma para una empresa de proyectos de climatización con catálogo de productos y servicios, y contacto directo.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS",
           "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "country": "Ecuador",
+          "url": "www.climaproyec.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-5.jpg",
+        "title": "Sitio Web para Jessy y Luis",
+        "subTitle": "Evento, Web Design",
+        "details": {
+          "title": "Diseño Web para Boda de Jessy y Luis",
+          "description": "Sitio web diseñado especialmente para el evento de boda, incluyendo detalles del evento, fotos y lista de regalos.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "Ecuador",
+          "url": "www.jessyluisboda.com"
+        }
+      },
+
+      {
+        "thumbUrl": "/images/popup-project-5.jpg",
+        "title": "Web para Ángel TV Noticias",
+        "subTitle": "Media, Web Design",
+        "details": {
+          "title": "Diseño y Desarrollo para Ángel TV Noticias",
+          "description": "Sitio web para un canal de noticias en línea, con integración multimedia y optimización para dispositivos móviles.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "Ecuador",
+          "url": "www.angeltvnoticias.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-5.jpg",
+        "title": "Web para Frute Expert",
+        "subTitle": "Food Industry, Web Design",
+        "details": {
+          "title": "Desarrollo de Página Web para Frute Expert",
+          "description": "Plataforma online para una empresa exportadora de frutas, con catálogo de productos y sistema de contacto para distribuidores.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "Ecuador",
+          "url": "www.fruteexpert.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-5.jpg",
+        "title": "Website para Technology Socrates",
+        "subTitle": "Technology, Web Design",
+        "details": {
+          "title": "Desarrollo de Web para Technology Socrates",
+          "description": "Página web diseñada para una empresa de tecnología, con secciones dedicadas a productos y servicios de consultoría tecnológica.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "Ecuador",
+          "url": "www.technologysocrates.com"
         }
       }
     ]
   },
   "service": {
     "sectionHeading": {
-      "miniTitle": "SERVICES",
-      "title": "Design <span>services</span> I am providing"
+      "miniTitle": "SERVICIOS",
+      "title": "Servicios de <span>diseño</span> y desarrollo que ofrezco"
     },
     "allService": [
       {
         "imgUrl": "/images/service-01.jpg",
-        "title": "Website Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "title": "Diseño de Páginas Web",
+        "subTitle": "Ofrezco servicios de diseño web personalizados, optimizados para una experiencia de usuario fluida y atractiva.",
         "icon": "bi:brush-fill",
         "ratings": 5
       },
       {
         "imgUrl": "/images/service-02.jpg",
-        "title": "Website Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "title": "Desarrollo Web a Medida",
+        "subTitle": "Desarrollo soluciones web personalizadas utilizando tecnologías modernas para satisfacer las necesidades de tu negocio.",
         "icon": "bi:code-square",
         "ratings": 4.5
       },
       {
         "imgUrl": "/images/service-03.jpg",
-        "title": "SEO Marketing",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "title": "Marketing SEO",
+        "subTitle": "Mejoro la visibilidad de tu sitio web en los motores de búsqueda, optimizando su rendimiento para atraer más clientes.",
         "icon": "bi:speedometer2",
         "ratings": 5
       },
       {
-        "imgUrl": "/images/service-04.jpg",
-        "title": "Graphic Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "imgUrl": "/images/service-03.jpg",
+        "title": "Diseño Gráfico",
+        "subTitle": "Diseño gráfico profesional para branding, materiales promocionales y otros elementos visuales que resalten tu marca.",
         "icon": "bi:palette",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "Diseño de Aplicaciones Móviles",
+        "subTitle": "Desarrollo y diseño de aplicaciones móviles optimizadas para Android e iOS, utilizando las últimas tecnologías como React Native.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "Desarrollo Frontend y Backend",
+        "subTitle": "Ofrezco desarrollo completo, desde el frontend con tecnologías modernas hasta backend escalables y eficientes.",
+        "icon": "bi:code-slash",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "Manejo de Modelos de Lenguaje (LLMs)",
+        "subTitle": "Implementación y optimización de modelos de lenguaje avanzado (LLMs) para mejorar la interacción y procesamiento de datos en tus aplicaciones.",
+        "icon": "bi:chat-dots",
         "ratings": 5
       }
     ]
@@ -254,28 +308,28 @@
     },
     "allExperience": [
       {
-        "designation": "Desarrollador Front-end",
-        "company": "WELAB | REMOTO",
-        "duration": "ENE 2019 - PRESENTE",
+        "designation": "Desarrollador Full-stack",
+        "company": "Runakay | REMOTO",
+        "duration": "FEB 2024 - PRESENTE",
         "jobType": "Tiempo completo",
         "companyTitle": "Sobre la Empresa",
-        "companyDescription": "WELAB es una empresa tecnológica que ofrece soluciones digitales avanzadas. Nuestro equipo global trabaja en proyectos innovadores, proporcionando productos de alta calidad y servicios personalizados para nuestros clientes. Nos enfocamos en la excelencia técnica y la satisfacción del cliente."
+        "companyDescription": "Runakay es una empresa dedicada al desarrollo de soluciones tecnológicas avanzadas, enfocada en la innovación y la optimización de procesos empresariales mediante el uso de tecnologías emergentes."
       },
       {
-        "designation": "Desarrollador Front-end",
-        "company": "Tech Solutions | REMOTO",
-        "duration": "JUL 2017 - DIC 2018",
+        "designation": "Desarrollador Front-end y Backend",
+        "company": "Nexfon | REMOTO",
+        "duration": "ENE 2021 - MAR 2023",
         "jobType": "Tiempo completo",
         "companyTitle": "Sobre la Empresa",
-        "companyDescription": "Tech Solutions es una empresa global de software dedicada a la transformación digital. Creamos productos de software escalables y de alto rendimiento utilizando tecnologías de vanguardia y metodologías ágiles."
+        "companyDescription": "Nexfon es una empresa que ofrece soluciones integrales en telecomunicaciones y tecnología, destacando en el desarrollo de productos y servicios digitales innovadores para empresas."
       },
       {
-        "designation": "Desarrollador Front-end",
-        "company": "Innovatech | REMOTO",
-        "duration": "MAR 2015 - JUN 2017",
-        "jobType": "Tiempo completo",
-        "companyTitle": "Sobre la Empresa",
-        "companyDescription": "Innovatech se especializa en soluciones web y móviles innovadoras. Trabajamos con clientes de todo el mundo para desarrollar software a medida, ayudando a las empresas a innovar y crecer."
+        "designation": "Desarrollador WordPress y Software a Medida",
+        "company": "Freelance | REMOTO",
+        "duration": "ENE 2020 - PRESENTE",
+        "jobType": "Autónomo",
+        "companyTitle": "Sobre el Trabajo",
+        "companyDescription": "Especializado en el desarrollo de páginas web en WordPress para empresas y la creación de software a medida. Proyectos en desarrollo móvil y web utilizando tecnologías modernas y optimizadas para cada cliente."
       }
     ]
   },
@@ -308,13 +362,13 @@
   },
   "contact": {
     "sectionHeading": {
-      "title": "Let’s Discuss Your Project",
-      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+      "title": "Hablemos sobre tu Proyecto",
+      "subTitle": "Siempre disponible para trabajar en proyectos freelance si el proyecto adecuado llega. No dudes en contactarme."
     },
     "contactImg": "/images/contact-us.png",
     "contactInfo": [
-      { "title": "Write an e-mail", "email": "sample@domain.com" },
-      { "title": "write an e-mail", "tel": "+044 9696 9696 3636" }
+      { "title": "Correo Electrónico", "email": "joel.darguello@gmail.com" },
+      { "title": "Envíame un mensaje", "tel": "+593 998 500 498" }
     ]
   }
 }

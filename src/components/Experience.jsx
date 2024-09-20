@@ -1,11 +1,11 @@
-import React from 'react';
-import SectionHeading from './SectionHeading';
+import React from "react";
+import SectionHeading from "./SectionHeading";
 
 export default function Experience({ data }) {
   const { sectionHeading, allExperience } = data;
 
   return (
-    <section className="section gray-bg">
+    <section className="section gray-bg" id="experiences">
       <div className="container">
         <SectionHeading
           miniTitle={sectionHeading.miniTitle}
