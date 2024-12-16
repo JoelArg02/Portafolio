@@ -1,6 +1,6 @@
 {
   "hero": {
-    "imgUrl": "/images/home-banner.png",
+    "imgUrl": "/images/joel.jpg",
     "name": "Joel Arguello",
     "heading": "Hey! Soy Joel",
     "typingText": ["Soy desarrollador", 1500, "I'm a Developer", 1500],
@@ -101,7 +101,48 @@
           "url": "www.mcglobalecuador.com"
         }
       },
-
+      {
+        "thumbUrl": "/images/web-pages/mcglobal.png",
+        "title": "Academia Online Trade EuroLatam Academy",
+        "subTitle": "Educación, E-commerce, Web Design",
+        "details": {
+          "title": "Desarrollo de Plataforma Educativa para Trade EuroLatam Academy",
+          "description": "Sitio web para una academia en línea, enfocado en la venta de cursos y gestión de contenidos educativos, con integración de pasarelas de pago para transacciones seguras.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "Latinoamérica",
+          "url": "www.tradereurolatamacademy.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/web-pages/mcglobal.png",
+        "title": "E-commerce de Productos de Limpieza PACLEANEC",
+        "subTitle": "E-commerce, Productos de Limpieza, Web Design",
+        "details": {
+          "title": "Desarrollo de Tienda Online para PACLEANEC",
+          "description": "Plataforma de comercio electrónico para la venta de productos de limpieza, integrada con pasarelas de pago para una experiencia de compra segura y eficiente.",
+          "type": "E-commerce",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "Ecuador",
+          "url": "https://pacleanec.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/web-pages/mcglobal.png",
+        "title": "E-commerce para Clex Importadora",
+        "subTitle": "E-commerce, Accesorios Vehiculares, Web Design",
+        "details": {
+          "title": "Desarrollo de E-commerce para Clex Importadora",
+          "description": "Plataforma de comercio electrónico dedicada a la venta de productos y accesorios vehiculares, con integración de pasarelas de pago y funcionalidades avanzadas de catálogo.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "Ecuador",
+          "url": "https://cleximportadora.com"
+        }
+      },
       {
         "thumbUrl": "/images/web-pages/amir.png",
         "title": "Website para AMIRadiológico",
@@ -146,7 +187,7 @@
       },
       {
         "thumbUrl": "/images/web-pages/grupo-guaman.png",
-        "title": "Diseño Web para Grupo Guaman",
+        "title": "Diseño Web para |",
         "subTitle": "Web Design, WordPress",
         "details": {
           "title": "Diseño de Página Web para Grupo Guaman",
@@ -249,56 +290,56 @@
   "service": {
     "sectionHeading": {
       "miniTitle": "SERVICIOS",
-      "title": "Servicios de <span>diseño</span> y desarrollo que ofrezco"
+      "title": "Servicios de <span>software</span> que ofrezco"
     },
     "allService": [
       {
-        "imgUrl": "/images/service-01.jpg",
-        "title": "Diseño de Páginas Web",
-        "subTitle": "Ofrezco servicios de diseño web personalizados, optimizados para una experiencia de usuario fluida y atractiva.",
-        "icon": "bi:brush-fill",
-        "ratings": 5
-      },
-      {
-        "imgUrl": "/images/service-02.jpg",
-        "title": "Desarrollo Web a Medida",
-        "subTitle": "Desarrollo soluciones web personalizadas utilizando tecnologías modernas para satisfacer las necesidades de tu negocio.",
-        "icon": "bi:code-square",
-        "ratings": 4.5
-      },
-      {
-        "imgUrl": "/images/service-03.jpg",
-        "title": "Marketing SEO",
-        "subTitle": "Mejoro la visibilidad de tu sitio web en los motores de búsqueda, optimizando su rendimiento para atraer más clientes.",
-        "icon": "bi:speedometer2",
-        "ratings": 5
-      },
-      {
-        "imgUrl": "/images/service-03.jpg",
-        "title": "Diseño Gráfico",
-        "subTitle": "Diseño gráfico profesional para branding, materiales promocionales y otros elementos visuales que resalten tu marca.",
-        "icon": "bi:palette",
-        "ratings": 5
-      },
-      {
-        "imgUrl": "/images/service-03.jpg",
-        "title": "Diseño de Aplicaciones Móviles",
-        "subTitle": "Desarrollo y diseño de aplicaciones móviles optimizadas para Android e iOS, utilizando las últimas tecnologías como React Native.",
-        "icon": "bi:speedometer2",
-        "ratings": 5
-      },
-      {
-        "imgUrl": "/images/service-03.jpg",
-        "title": "Desarrollo Frontend y Backend",
-        "subTitle": "Ofrezco desarrollo completo, desde el frontend con tecnologías modernas hasta backend escalables y eficientes.",
+        "imgUrl": "/images/software-service-01.jpg",
+        "title": "Desarrollo de Software a Medida",
+        "subTitle": "Creamos soluciones de software personalizadas para satisfacer las necesidades específicas de tu negocio, utilizando las tecnologías más modernas.",
         "icon": "bi:code-slash",
         "ratings": 5
       },
       {
-        "imgUrl": "/images/service-03.jpg",
-        "title": "Manejo de Modelos de Lenguaje (LLMs)",
-        "subTitle": "Implementación y optimización de modelos de lenguaje avanzado (LLMs) para mejorar la interacción y procesamiento de datos en tus aplicaciones.",
-        "icon": "bi:chat-dots",
+        "imgUrl": "/images/software-service-02.jpg",
+        "title": "Desarrollo de Aplicaciones Móviles",
+        "subTitle": "Diseño y desarrollo de aplicaciones móviles para Android e iOS, asegurando rendimiento, diseño y usabilidad excepcionales.",
+        "icon": "bi:phone-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/software-service-03.jpg",
+        "title": "Integración de APIs",
+        "subTitle": "Conectamos tus sistemas mediante la integración de APIs, mejorando la interoperabilidad y el flujo de datos en tu infraestructura.",
+        "icon": "bi:plug-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/software-service-04.jpg",
+        "title": "Desarrollo de Sistemas Backend",
+        "subTitle": "Construcción de sistemas backend robustos y escalables para soportar las operaciones más exigentes de tu negocio.",
+        "icon": "bi:server",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/software-service-05.jpg",
+        "title": "Arquitectura de Microservicios",
+        "subTitle": "Diseño e implementación de arquitecturas de microservicios para lograr mayor flexibilidad y escalabilidad en tus aplicaciones.",
+        "icon": "bi:boxes",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/software-service-06.jpg",
+        "title": "Desarrollo de Software con IA",
+        "subTitle": "Incorporamos inteligencia artificial y aprendizaje automático en tus aplicaciones para optimizar procesos y análisis de datos.",
+        "icon": "bi:robot",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/software-service-07.jpg",
+        "title": "Auditorías y Refactorización de Código",
+        "subTitle": "Realizamos auditorías de código para identificar mejoras y optimizar el rendimiento de tus aplicaciones existentes.",
+        "icon": "bi:clipboard-check",
         "ratings": 5
       }
     ]
